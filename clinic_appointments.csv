@@ -1,0 +1,1001 @@
+Unnamed: 0,TimeSlot,BookingMethod,Attended
+0,Morning,Phone,Yes
+1,Evening,Online,Yes
+2,Afternoon,Mobile App,No
+3,Afternoon,Online,Yes
+4,Morning,Mobile App,Yes
+5,Morning,Online,Yes
+6,Morning,Online,Yes
+7,Evening,Mobile App,Yes
+8,Afternoon,Phone,Yes
+9,Afternoon,Online,Yes
+10,Morning,Phone,Yes
+11,Evening,Mobile App,Yes
+12,Evening,Mobile App,No
+13,Morning,Phone,Yes
+14,Morning,Online,Yes
+15,Morning,Mobile App,Yes
+16,Morning,Phone,Yes
+17,Afternoon,Online,Yes
+18,Morning,Mobile App,Yes
+19,Morning,Phone,Yes
+20,Afternoon,Online,No
+21,Morning,Phone,Yes
+22,Morning,Mobile App,No
+23,Morning,Mobile App,Yes
+24,Morning,Mobile App,Yes
+25,Afternoon,Online,Yes
+26,Morning,Mobile App,Yes
+27,Afternoon,Mobile App,No
+28,Afternoon,Phone,Yes
+29,Morning,Mobile App,Yes
+30,Afternoon,Phone,Yes
+31,Morning,Online,Yes
+32,Morning,Phone,Yes
+33,Evening,Phone,No
+34,Evening,Phone,Yes
+35,Evening,Online,Yes
+36,Morning,Phone,Yes
+37,Morning,Online,Yes
+38,Afternoon,Phone,Yes
+39,Morning,Phone,Yes
+40,Morning,Online,Yes
+41,Afternoon,Mobile App,Yes
+42,Morning,Phone,Yes
+43,Evening,Online,Yes
+44,Morning,Mobile App,Yes
+45,Afternoon,Online,Yes
+46,Morning,Phone,Yes
+47,Afternoon,Phone,Yes
+48,Afternoon,Mobile App,Yes
+49,Morning,Phone,Yes
+50,Evening,Mobile App,Yes
+51,Afternoon,Online,Yes
+52,Evening,Mobile App,Yes
+53,Evening,Mobile App,No
+54,Afternoon,Mobile App,Yes
+55,Evening,Phone,Yes
+56,Morning,Mobile App,Yes
+57,Morning,Online,Yes
+58,Morning,Online,Yes
+59,Morning,Online,Yes
+60,Morning,Mobile App,Yes
+61,Morning,Mobile App,Yes
+62,Evening,Mobile App,Yes
+63,Morning,Online,Yes
+64,Morning,Online,Yes
+65,Afternoon,Online,Yes
+66,Morning,Phone,Yes
+67,Evening,Phone,Yes
+68,Morning,Phone,Yes
+69,Evening,Phone,Yes
+70,Afternoon,Phone,Yes
+71,Morning,Phone,Yes
+72,Morning,Phone,Yes
+73,Evening,Phone,No
+74,Afternoon,Mobile App,Yes
+75,Afternoon,Online,Yes
+76,Afternoon,Phone,Yes
+77,Morning,Online,Yes
+78,Morning,Phone,No
+79,Morning,Mobile App,Yes
+80,Evening,Mobile App,Yes
+81,Afternoon,Phone,Yes
+82,Morning,Online,Yes
+83,Morning,Mobile App,No
+84,Morning,Mobile App,Yes
+85,Morning,Online,Yes
+86,Afternoon,Online,Yes
+87,Afternoon,Phone,Yes
+88,Evening,Mobile App,Yes
+89,Afternoon,Phone,Yes
+90,Morning,Mobile App,Yes
+91,Afternoon,Online,No
+92,Afternoon,Online,Yes
+93,Afternoon,Online,Yes
+94,Afternoon,Phone,Yes
+95,Afternoon,Phone,Yes
+96,Afternoon,Phone,Yes
+97,Morning,Phone,Yes
+98,Morning,Mobile App,Yes
+99,Morning,Phone,Yes
+100,Morning,Phone,No
+101,Afternoon,Mobile App,Yes
+102,Morning,Mobile App,Yes
+103,Afternoon,Mobile App,Yes
+104,Evening,Mobile App,Yes
+105,Morning,Phone,Yes
+106,Morning,Online,Yes
+107,Afternoon,Mobile App,No
+108,Morning,Online,Yes
+109,Morning,Phone,No
+110,Morning,Mobile App,Yes
+111,Morning,Phone,Yes
+112,Evening,Phone,Yes
+113,Evening,Online,Yes
+114,Afternoon,Online,Yes
+115,Evening,Online,Yes
+116,Evening,Phone,Yes
+117,Morning,Mobile App,Yes
+118,Evening,Phone,Yes
+119,Afternoon,Phone,No
+120,Evening,Mobile App,Yes
+121,Evening,Mobile App,Yes
+122,Morning,Mobile App,No
+123,Morning,Mobile App,Yes
+124,Morning,Online,No
+125,Morning,Online,Yes
+126,Evening,Phone,Yes
+127,Evening,Online,Yes
+128,Morning,Phone,No
+129,Afternoon,Phone,Yes
+130,Morning,Online,Yes
+131,Morning,Online,Yes
+132,Morning,Phone,Yes
+133,Morning,Phone,Yes
+134,Evening,Online,Yes
+135,Morning,Phone,No
+136,Afternoon,Mobile App,Yes
+137,Afternoon,Online,Yes
+138,Morning,Online,Yes
+139,Evening,Online,Yes
+140,Evening,Mobile App,Yes
+141,Morning,Phone,Yes
+142,Afternoon,Online,Yes
+143,Morning,Online,Yes
+144,Morning,Phone,Yes
+145,Morning,Mobile App,Yes
+146,Afternoon,Mobile App,Yes
+147,Afternoon,Online,Yes
+148,Morning,Mobile App,Yes
+149,Morning,Mobile App,Yes
+150,Evening,Online,Yes
+151,Morning,Mobile App,Yes
+152,Morning,Online,Yes
+153,Afternoon,Online,Yes
+154,Evening,Online,Yes
+155,Morning,Mobile App,Yes
+156,Afternoon,Phone,Yes
+157,Afternoon,Mobile App,Yes
+158,Morning,Mobile App,Yes
+159,Afternoon,Phone,Yes
+160,Morning,Mobile App,Yes
+161,Afternoon,Phone,Yes
+162,Afternoon,Phone,Yes
+163,Afternoon,Mobile App,Yes
+164,Morning,Phone,Yes
+165,Evening,Mobile App,No
+166,Morning,Mobile App,Yes
+167,Morning,Online,Yes
+168,Morning,Phone,Yes
+169,Afternoon,Phone,Yes
+170,Afternoon,Online,Yes
+171,Morning,Mobile App,Yes
+172,Afternoon,Online,Yes
+173,Morning,Phone,No
+174,Afternoon,Online,Yes
+175,Morning,Online,Yes
+176,Afternoon,Mobile App,Yes
+177,Morning,Phone,Yes
+178,Evening,Mobile App,Yes
+179,Morning,Online,Yes
+180,Morning,Mobile App,Yes
+181,Morning,Phone,Yes
+182,Evening,Online,Yes
+183,Evening,Mobile App,Yes
+184,Morning,Phone,Yes
+185,Afternoon,Mobile App,No
+186,Evening,Online,Yes
+187,Afternoon,Phone,Yes
+188,Afternoon,Phone,Yes
+189,Morning,Online,Yes
+190,Morning,Phone,Yes
+191,Evening,Online,No
+192,Evening,Phone,Yes
+193,Afternoon,Online,Yes
+194,Morning,Phone,Yes
+195,Morning,Mobile App,Yes
+196,Afternoon,Mobile App,Yes
+197,Evening,Mobile App,Yes
+198,Evening,Mobile App,Yes
+199,Afternoon,Phone,Yes
+200,Afternoon,Mobile App,No
+201,Morning,Phone,Yes
+202,Morning,Phone,Yes
+203,Evening,Phone,Yes
+204,Afternoon,Online,Yes
+205,Morning,Mobile App,No
+206,Morning,Online,Yes
+207,Afternoon,Online,Yes
+208,Morning,Phone,Yes
+209,Morning,Mobile App,No
+210,Afternoon,Online,Yes
+211,Afternoon,Online,Yes
+212,Afternoon,Phone,Yes
+213,Morning,Mobile App,No
+214,Afternoon,Online,Yes
+215,Morning,Phone,Yes
+216,Morning,Phone,Yes
+217,Afternoon,Online,Yes
+218,Afternoon,Online,Yes
+219,Evening,Phone,Yes
+220,Afternoon,Mobile App,Yes
+221,Afternoon,Phone,Yes
+222,Morning,Online,Yes
+223,Morning,Mobile App,Yes
+224,Morning,Online,Yes
+225,Morning,Online,Yes
+226,Evening,Online,Yes
+227,Morning,Phone,Yes
+228,Evening,Mobile App,Yes
+229,Afternoon,Online,Yes
+230,Afternoon,Mobile App,Yes
+231,Afternoon,Phone,Yes
+232,Afternoon,Phone,No
+233,Afternoon,Phone,No
+234,Morning,Online,Yes
+235,Afternoon,Phone,Yes
+236,Morning,Mobile App,No
+237,Morning,Online,Yes
+238,Afternoon,Mobile App,Yes
+239,Morning,Phone,Yes
+240,Evening,Mobile App,Yes
+241,Evening,Mobile App,Yes
+242,Evening,Mobile App,Yes
+243,Morning,Mobile App,No
+244,Morning,Mobile App,Yes
+245,Evening,Online,Yes
+246,Morning,Phone,Yes
+247,Evening,Phone,No
+248,Evening,Mobile App,Yes
+249,Evening,Online,Yes
+250,Morning,Mobile App,Yes
+251,Morning,Online,No
+252,Evening,Phone,Yes
+253,Morning,Phone,Yes
+254,Morning,Online,Yes
+255,Afternoon,Online,Yes
+256,Evening,Phone,Yes
+257,Afternoon,Online,Yes
+258,Afternoon,Phone,Yes
+259,Morning,Online,Yes
+260,Afternoon,Phone,Yes
+261,Evening,Mobile App,Yes
+262,Morning,Phone,No
+263,Afternoon,Online,Yes
+264,Evening,Phone,Yes
+265,Afternoon,Phone,Yes
+266,Afternoon,Online,Yes
+267,Afternoon,Online,Yes
+268,Morning,Online,Yes
+269,Morning,Phone,Yes
+270,Evening,Online,Yes
+271,Evening,Mobile App,Yes
+272,Evening,Mobile App,Yes
+273,Evening,Phone,Yes
+274,Afternoon,Online,No
+275,Afternoon,Phone,Yes
+276,Afternoon,Phone,Yes
+277,Afternoon,Mobile App,Yes
+278,Afternoon,Phone,Yes
+279,Afternoon,Online,Yes
+280,Evening,Online,Yes
+281,Morning,Online,Yes
+282,Morning,Online,Yes
+283,Morning,Phone,Yes
+284,Afternoon,Phone,Yes
+285,Morning,Online,Yes
+286,Afternoon,Phone,No
+287,Afternoon,Phone,Yes
+288,Morning,Phone,Yes
+289,Afternoon,Phone,Yes
+290,Morning,Online,Yes
+291,Morning,Phone,Yes
+292,Evening,Online,Yes
+293,Morning,Online,Yes
+294,Morning,Mobile App,Yes
+295,Afternoon,Phone,Yes
+296,Afternoon,Phone,Yes
+297,Morning,Phone,Yes
+298,Afternoon,Online,Yes
+299,Morning,Online,Yes
+300,Morning,Phone,Yes
+301,Afternoon,Mobile App,Yes
+302,Afternoon,Phone,Yes
+303,Afternoon,Online,Yes
+304,Afternoon,Online,No
+305,Evening,Mobile App,Yes
+306,Afternoon,Online,Yes
+307,Morning,Mobile App,Yes
+308,Afternoon,Phone,Yes
+309,Morning,Mobile App,Yes
+310,Morning,Phone,Yes
+311,Morning,Mobile App,Yes
+312,Morning,Online,Yes
+313,Evening,Mobile App,Yes
+314,Evening,Online,No
+315,Afternoon,Online,Yes
+316,Morning,Online,Yes
+317,Morning,Online,Yes
+318,Morning,Phone,Yes
+319,Morning,Phone,Yes
+320,Afternoon,Phone,No
+321,Afternoon,Phone,Yes
+322,Afternoon,Mobile App,Yes
+323,Morning,Phone,Yes
+324,Evening,Mobile App,Yes
+325,Afternoon,Phone,No
+326,Afternoon,Phone,Yes
+327,Afternoon,Mobile App,Yes
+328,Morning,Online,Yes
+329,Morning,Online,Yes
+330,Morning,Online,Yes
+331,Afternoon,Online,Yes
+332,Morning,Phone,Yes
+333,Morning,Mobile App,Yes
+334,Morning,Mobile App,Yes
+335,Morning,Online,Yes
+336,Evening,Phone,Yes
+337,Afternoon,Online,Yes
+338,Afternoon,Phone,Yes
+339,Morning,Phone,Yes
+340,Afternoon,Phone,Yes
+341,Afternoon,Online,Yes
+342,Morning,Mobile App,Yes
+343,Morning,Online,Yes
+344,Morning,Mobile App,No
+345,Afternoon,Online,Yes
+346,Afternoon,Phone,Yes
+347,Morning,Phone,Yes
+348,Morning,Mobile App,Yes
+349,Afternoon,Phone,Yes
+350,Afternoon,Mobile App,Yes
+351,Evening,Online,No
+352,Afternoon,Online,Yes
+353,Morning,Online,Yes
+354,Morning,Online,Yes
+355,Afternoon,Mobile App,Yes
+356,Morning,Mobile App,No
+357,Afternoon,Online,Yes
+358,Evening,Phone,Yes
+359,Afternoon,Online,Yes
+360,Morning,Mobile App,Yes
+361,Afternoon,Phone,Yes
+362,Morning,Online,Yes
+363,Afternoon,Online,Yes
+364,Evening,Online,Yes
+365,Morning,Phone,Yes
+366,Evening,Online,Yes
+367,Evening,Mobile App,Yes
+368,Morning,Phone,Yes
+369,Morning,Phone,Yes
+370,Morning,Mobile App,Yes
+371,Morning,Phone,No
+372,Morning,Mobile App,Yes
+373,Afternoon,Online,Yes
+374,Morning,Phone,Yes
+375,Morning,Mobile App,Yes
+376,Evening,Online,Yes
+377,Morning,Online,Yes
+378,Evening,Phone,Yes
+379,Morning,Online,Yes
+380,Morning,Phone,Yes
+381,Afternoon,Online,Yes
+382,Afternoon,Mobile App,No
+383,Evening,Phone,Yes
+384,Afternoon,Online,Yes
+385,Evening,Phone,Yes
+386,Morning,Mobile App,Yes
+387,Morning,Phone,Yes
+388,Afternoon,Mobile App,Yes
+389,Evening,Online,Yes
+390,Evening,Phone,Yes
+391,Morning,Phone,Yes
+392,Morning,Phone,Yes
+393,Afternoon,Online,Yes
+394,Morning,Phone,No
+395,Evening,Mobile App,Yes
+396,Evening,Online,Yes
+397,Morning,Phone,Yes
+398,Afternoon,Online,Yes
+399,Afternoon,Online,Yes
+400,Morning,Phone,Yes
+401,Evening,Phone,Yes
+402,Afternoon,Phone,Yes
+403,Evening,Online,Yes
+404,Morning,Online,Yes
+405,Evening,Online,Yes
+406,Morning,Mobile App,Yes
+407,Morning,Mobile App,Yes
+408,Evening,Online,No
+409,Morning,Mobile App,Yes
+410,Morning,Phone,Yes
+411,Evening,Phone,Yes
+412,Evening,Phone,Yes
+413,Afternoon,Phone,Yes
+414,Afternoon,Online,Yes
+415,Morning,Mobile App,No
+416,Morning,Phone,Yes
+417,Morning,Phone,Yes
+418,Afternoon,Online,Yes
+419,Afternoon,Mobile App,Yes
+420,Afternoon,Phone,Yes
+421,Afternoon,Online,Yes
+422,Morning,Phone,Yes
+423,Afternoon,Phone,Yes
+424,Morning,Mobile App,Yes
+425,Afternoon,Mobile App,No
+426,Morning,Phone,Yes
+427,Evening,Mobile App,No
+428,Morning,Online,Yes
+429,Morning,Mobile App,No
+430,Morning,Online,Yes
+431,Afternoon,Online,Yes
+432,Afternoon,Online,No
+433,Morning,Online,Yes
+434,Morning,Phone,No
+435,Afternoon,Phone,Yes
+436,Morning,Phone,Yes
+437,Evening,Online,Yes
+438,Afternoon,Phone,Yes
+439,Morning,Online,Yes
+440,Morning,Mobile App,Yes
+441,Evening,Phone,Yes
+442,Morning,Online,Yes
+443,Morning,Online,Yes
+444,Evening,Mobile App,Yes
+445,Evening,Phone,Yes
+446,Evening,Online,Yes
+447,Afternoon,Mobile App,Yes
+448,Morning,Mobile App,Yes
+449,Morning,Online,Yes
+450,Afternoon,Online,Yes
+451,Afternoon,Online,No
+452,Morning,Mobile App,Yes
+453,Evening,Online,Yes
+454,Morning,Phone,Yes
+455,Afternoon,Mobile App,Yes
+456,Morning,Online,Yes
+457,Afternoon,Online,Yes
+458,Morning,Phone,Yes
+459,Morning,Online,Yes
+460,Morning,Online,No
+461,Afternoon,Online,Yes
+462,Afternoon,Phone,Yes
+463,Afternoon,Online,Yes
+464,Evening,Mobile App,Yes
+465,Morning,Phone,Yes
+466,Morning,Mobile App,Yes
+467,Evening,Online,Yes
+468,Morning,Mobile App,Yes
+469,Evening,Mobile App,Yes
+470,Morning,Online,Yes
+471,Evening,Online,No
+472,Morning,Mobile App,No
+473,Evening,Online,Yes
+474,Afternoon,Phone,Yes
+475,Evening,Online,Yes
+476,Morning,Mobile App,Yes
+477,Afternoon,Mobile App,Yes
+478,Evening,Mobile App,Yes
+479,Afternoon,Online,Yes
+480,Afternoon,Mobile App,Yes
+481,Afternoon,Phone,No
+482,Morning,Online,No
+483,Afternoon,Phone,Yes
+484,Afternoon,Phone,Yes
+485,Evening,Phone,No
+486,Morning,Online,Yes
+487,Morning,Online,Yes
+488,Evening,Online,Yes
+489,Evening,Online,Yes
+490,Morning,Phone,Yes
+491,Afternoon,Phone,Yes
+492,Morning,Phone,Yes
+493,Morning,Phone,Yes
+494,Afternoon,Online,Yes
+495,Morning,Online,Yes
+496,Afternoon,Online,Yes
+497,Morning,Online,Yes
+498,Evening,Phone,No
+499,Evening,Mobile App,Yes
+500,Afternoon,Online,Yes
+501,Afternoon,Online,Yes
+502,Morning,Phone,Yes
+503,Evening,Phone,No
+504,Afternoon,Phone,Yes
+505,Morning,Online,Yes
+506,Evening,Online,Yes
+507,Evening,Online,Yes
+508,Evening,Online,Yes
+509,Afternoon,Mobile App,No
+510,Afternoon,Mobile App,Yes
+511,Morning,Online,Yes
+512,Evening,Mobile App,Yes
+513,Evening,Phone,Yes
+514,Morning,Phone,Yes
+515,Morning,Phone,No
+516,Morning,Online,Yes
+517,Evening,Mobile App,Yes
+518,Evening,Phone,Yes
+519,Morning,Mobile App,Yes
+520,Afternoon,Phone,Yes
+521,Morning,Mobile App,Yes
+522,Evening,Phone,Yes
+523,Evening,Phone,Yes
+524,Evening,Online,Yes
+525,Afternoon,Phone,Yes
+526,Morning,Phone,Yes
+527,Morning,Phone,No
+528,Morning,Mobile App,Yes
+529,Evening,Online,No
+530,Evening,Phone,Yes
+531,Evening,Online,Yes
+532,Evening,Online,Yes
+533,Afternoon,Phone,Yes
+534,Afternoon,Online,Yes
+535,Evening,Phone,No
+536,Evening,Phone,Yes
+537,Morning,Online,Yes
+538,Morning,Phone,Yes
+539,Morning,Online,Yes
+540,Evening,Online,Yes
+541,Afternoon,Phone,Yes
+542,Morning,Online,Yes
+543,Afternoon,Phone,Yes
+544,Afternoon,Mobile App,Yes
+545,Morning,Online,Yes
+546,Morning,Mobile App,Yes
+547,Afternoon,Online,Yes
+548,Afternoon,Phone,Yes
+549,Afternoon,Online,Yes
+550,Afternoon,Mobile App,Yes
+551,Evening,Online,Yes
+552,Afternoon,Mobile App,Yes
+553,Afternoon,Mobile App,No
+554,Evening,Phone,Yes
+555,Morning,Phone,No
+556,Morning,Online,Yes
+557,Morning,Online,Yes
+558,Afternoon,Mobile App,Yes
+559,Afternoon,Mobile App,Yes
+560,Afternoon,Phone,Yes
+561,Morning,Phone,Yes
+562,Morning,Mobile App,Yes
+563,Morning,Phone,Yes
+564,Morning,Mobile App,Yes
+565,Afternoon,Online,Yes
+566,Morning,Online,Yes
+567,Morning,Phone,Yes
+568,Evening,Online,Yes
+569,Morning,Online,No
+570,Afternoon,Online,Yes
+571,Afternoon,Phone,No
+572,Morning,Online,Yes
+573,Afternoon,Mobile App,Yes
+574,Evening,Phone,Yes
+575,Evening,Phone,Yes
+576,Morning,Phone,No
+577,Evening,Online,Yes
+578,Afternoon,Online,Yes
+579,Morning,Online,Yes
+580,Morning,Phone,Yes
+581,Evening,Online,Yes
+582,Afternoon,Online,Yes
+583,Morning,Online,Yes
+584,Afternoon,Mobile App,Yes
+585,Morning,Phone,Yes
+586,Morning,Online,Yes
+587,Morning,Online,Yes
+588,Morning,Online,Yes
+589,Morning,Online,Yes
+590,Morning,Online,Yes
+591,Afternoon,Mobile App,Yes
+592,Morning,Phone,Yes
+593,Morning,Phone,Yes
+594,Evening,Online,Yes
+595,Afternoon,Online,Yes
+596,Afternoon,Phone,Yes
+597,Morning,Phone,Yes
+598,Morning,Phone,Yes
+599,Morning,Mobile App,Yes
+600,Morning,Phone,Yes
+601,Morning,Phone,Yes
+602,Morning,Phone,Yes
+603,Morning,Phone,Yes
+604,Morning,Phone,Yes
+605,Afternoon,Online,Yes
+606,Morning,Phone,Yes
+607,Morning,Mobile App,Yes
+608,Afternoon,Phone,Yes
+609,Afternoon,Online,Yes
+610,Morning,Mobile App,Yes
+611,Afternoon,Online,Yes
+612,Afternoon,Online,Yes
+613,Morning,Phone,Yes
+614,Evening,Phone,Yes
+615,Evening,Online,Yes
+616,Morning,Mobile App,Yes
+617,Morning,Online,Yes
+618,Evening,Online,Yes
+619,Afternoon,Online,Yes
+620,Morning,Online,Yes
+621,Morning,Phone,No
+622,Morning,Online,Yes
+623,Afternoon,Mobile App,No
+624,Afternoon,Phone,Yes
+625,Morning,Online,No
+626,Afternoon,Phone,Yes
+627,Afternoon,Online,Yes
+628,Morning,Phone,Yes
+629,Morning,Online,Yes
+630,Afternoon,Mobile App,Yes
+631,Evening,Phone,Yes
+632,Afternoon,Online,Yes
+633,Afternoon,Mobile App,Yes
+634,Morning,Mobile App,Yes
+635,Morning,Phone,Yes
+636,Afternoon,Online,No
+637,Morning,Phone,Yes
+638,Morning,Mobile App,No
+639,Morning,Mobile App,Yes
+640,Morning,Online,Yes
+641,Morning,Mobile App,Yes
+642,Morning,Online,Yes
+643,Morning,Online,Yes
+644,Morning,Phone,Yes
+645,Evening,Mobile App,Yes
+646,Afternoon,Phone,No
+647,Afternoon,Mobile App,Yes
+648,Afternoon,Mobile App,Yes
+649,Afternoon,Online,Yes
+650,Morning,Phone,Yes
+651,Afternoon,Phone,Yes
+652,Afternoon,Phone,Yes
+653,Afternoon,Phone,Yes
+654,Morning,Phone,Yes
+655,Morning,Mobile App,Yes
+656,Morning,Online,Yes
+657,Morning,Phone,No
+658,Afternoon,Online,Yes
+659,Afternoon,Online,Yes
+660,Morning,Online,Yes
+661,Evening,Online,Yes
+662,Afternoon,Mobile App,Yes
+663,Morning,Online,Yes
+664,Morning,Mobile App,Yes
+665,Morning,Mobile App,Yes
+666,Morning,Phone,Yes
+667,Morning,Mobile App,Yes
+668,Morning,Phone,Yes
+669,Morning,Mobile App,Yes
+670,Morning,Phone,Yes
+671,Evening,Mobile App,Yes
+672,Morning,Mobile App,Yes
+673,Afternoon,Mobile App,Yes
+674,Morning,Mobile App,No
+675,Evening,Phone,Yes
+676,Morning,Phone,Yes
+677,Morning,Online,Yes
+678,Evening,Phone,Yes
+679,Evening,Online,Yes
+680,Evening,Phone,Yes
+681,Morning,Mobile App,Yes
+682,Morning,Online,Yes
+683,Afternoon,Mobile App,Yes
+684,Evening,Phone,Yes
+685,Afternoon,Mobile App,Yes
+686,Afternoon,Mobile App,Yes
+687,Morning,Online,Yes
+688,Afternoon,Online,Yes
+689,Morning,Mobile App,Yes
+690,Morning,Phone,Yes
+691,Morning,Online,Yes
+692,Afternoon,Online,Yes
+693,Morning,Phone,Yes
+694,Morning,Phone,No
+695,Afternoon,Phone,Yes
+696,Morning,Phone,Yes
+697,Afternoon,Phone,Yes
+698,Morning,Mobile App,Yes
+699,Afternoon,Online,Yes
+700,Afternoon,Mobile App,Yes
+701,Morning,Online,No
+702,Morning,Phone,Yes
+703,Morning,Online,Yes
+704,Morning,Online,Yes
+705,Evening,Phone,Yes
+706,Morning,Online,Yes
+707,Evening,Phone,Yes
+708,Morning,Online,Yes
+709,Afternoon,Online,Yes
+710,Afternoon,Phone,Yes
+711,Afternoon,Phone,Yes
+712,Afternoon,Mobile App,Yes
+713,Morning,Online,Yes
+714,Morning,Phone,Yes
+715,Evening,Mobile App,Yes
+716,Evening,Phone,Yes
+717,Evening,Online,No
+718,Morning,Mobile App,Yes
+719,Afternoon,Phone,Yes
+720,Evening,Phone,No
+721,Morning,Phone,Yes
+722,Morning,Phone,Yes
+723,Afternoon,Phone,Yes
+724,Afternoon,Online,Yes
+725,Evening,Phone,Yes
+726,Morning,Online,Yes
+727,Afternoon,Mobile App,Yes
+728,Morning,Mobile App,Yes
+729,Morning,Online,Yes
+730,Morning,Phone,Yes
+731,Evening,Online,Yes
+732,Afternoon,Online,Yes
+733,Afternoon,Online,No
+734,Morning,Phone,No
+735,Evening,Mobile App,Yes
+736,Morning,Online,No
+737,Evening,Phone,Yes
+738,Morning,Phone,No
+739,Morning,Online,Yes
+740,Afternoon,Mobile App,Yes
+741,Morning,Online,Yes
+742,Afternoon,Mobile App,Yes
+743,Afternoon,Phone,Yes
+744,Morning,Online,Yes
+745,Evening,Online,Yes
+746,Morning,Phone,Yes
+747,Afternoon,Phone,Yes
+748,Evening,Mobile App,Yes
+749,Afternoon,Phone,Yes
+750,Morning,Online,Yes
+751,Evening,Phone,Yes
+752,Afternoon,Phone,Yes
+753,Morning,Phone,Yes
+754,Morning,Mobile App,No
+755,Afternoon,Mobile App,Yes
+756,Afternoon,Mobile App,Yes
+757,Afternoon,Online,Yes
+758,Evening,Phone,Yes
+759,Afternoon,Online,Yes
+760,Morning,Online,Yes
+761,Morning,Mobile App,Yes
+762,Morning,Phone,Yes
+763,Afternoon,Online,Yes
+764,Morning,Phone,Yes
+765,Afternoon,Phone,No
+766,Afternoon,Online,Yes
+767,Evening,Online,Yes
+768,Morning,Phone,Yes
+769,Evening,Online,Yes
+770,Morning,Online,Yes
+771,Evening,Mobile App,Yes
+772,Morning,Mobile App,Yes
+773,Morning,Mobile App,Yes
+774,Afternoon,Mobile App,Yes
+775,Morning,Phone,Yes
+776,Morning,Online,Yes
+777,Afternoon,Online,Yes
+778,Afternoon,Phone,Yes
+779,Afternoon,Mobile App,Yes
+780,Afternoon,Phone,Yes
+781,Afternoon,Mobile App,Yes
+782,Morning,Online,No
+783,Morning,Online,Yes
+784,Morning,Online,Yes
+785,Evening,Mobile App,Yes
+786,Afternoon,Online,No
+787,Morning,Online,Yes
+788,Afternoon,Phone,No
+789,Evening,Online,No
+790,Morning,Phone,Yes
+791,Afternoon,Online,No
+792,Afternoon,Online,Yes
+793,Afternoon,Online,Yes
+794,Morning,Phone,Yes
+795,Evening,Phone,Yes
+796,Evening,Online,Yes
+797,Afternoon,Phone,Yes
+798,Afternoon,Phone,No
+799,Evening,Phone,Yes
+800,Afternoon,Mobile App,Yes
+801,Morning,Online,No
+802,Afternoon,Phone,No
+803,Afternoon,Phone,No
+804,Morning,Phone,Yes
+805,Afternoon,Mobile App,No
+806,Evening,Online,Yes
+807,Evening,Phone,Yes
+808,Morning,Phone,Yes
+809,Morning,Phone,Yes
+810,Evening,Online,Yes
+811,Evening,Mobile App,Yes
+812,Morning,Phone,Yes
+813,Evening,Phone,Yes
+814,Evening,Phone,Yes
+815,Afternoon,Mobile App,Yes
+816,Afternoon,Phone,Yes
+817,Morning,Mobile App,Yes
+818,Morning,Online,Yes
+819,Morning,Phone,Yes
+820,Evening,Phone,No
+821,Morning,Phone,Yes
+822,Morning,Online,Yes
+823,Morning,Mobile App,Yes
+824,Afternoon,Online,Yes
+825,Evening,Online,Yes
+826,Morning,Phone,Yes
+827,Morning,Mobile App,Yes
+828,Afternoon,Mobile App,Yes
+829,Morning,Phone,Yes
+830,Morning,Mobile App,Yes
+831,Morning,Online,Yes
+832,Morning,Online,Yes
+833,Morning,Mobile App,Yes
+834,Afternoon,Mobile App,Yes
+835,Morning,Online,No
+836,Evening,Phone,No
+837,Morning,Phone,Yes
+838,Afternoon,Mobile App,Yes
+839,Afternoon,Phone,Yes
+840,Morning,Phone,Yes
+841,Afternoon,Online,Yes
+842,Morning,Online,No
+843,Evening,Online,No
+844,Morning,Mobile App,Yes
+845,Morning,Phone,Yes
+846,Morning,Phone,Yes
+847,Evening,Phone,Yes
+848,Afternoon,Mobile App,Yes
+849,Afternoon,Online,Yes
+850,Morning,Phone,Yes
+851,Afternoon,Mobile App,Yes
+852,Morning,Mobile App,Yes
+853,Evening,Mobile App,No
+854,Morning,Mobile App,Yes
+855,Morning,Phone,Yes
+856,Morning,Mobile App,Yes
+857,Afternoon,Online,Yes
+858,Afternoon,Mobile App,Yes
+859,Morning,Online,Yes
+860,Afternoon,Mobile App,Yes
+861,Morning,Online,Yes
+862,Afternoon,Phone,No
+863,Morning,Online,Yes
+864,Morning,Mobile App,Yes
+865,Afternoon,Mobile App,Yes
+866,Morning,Phone,Yes
+867,Morning,Phone,Yes
+868,Evening,Phone,Yes
+869,Evening,Online,Yes
+870,Morning,Mobile App,No
+871,Morning,Phone,No
+872,Afternoon,Online,Yes
+873,Morning,Mobile App,Yes
+874,Morning,Online,Yes
+875,Morning,Online,Yes
+876,Afternoon,Online,Yes
+877,Afternoon,Online,Yes
+878,Morning,Phone,Yes
+879,Morning,Online,Yes
+880,Morning,Online,Yes
+881,Afternoon,Mobile App,Yes
+882,Morning,Online,Yes
+883,Morning,Mobile App,Yes
+884,Afternoon,Phone,Yes
+885,Morning,Online,No
+886,Afternoon,Phone,Yes
+887,Morning,Phone,Yes
+888,Morning,Online,Yes
+889,Morning,Mobile App,Yes
+890,Afternoon,Phone,Yes
+891,Evening,Online,Yes
+892,Evening,Mobile App,Yes
+893,Morning,Phone,Yes
+894,Afternoon,Online,Yes
+895,Morning,Online,Yes
+896,Morning,Online,Yes
+897,Evening,Phone,Yes
+898,Morning,Phone,Yes
+899,Morning,Mobile App,Yes
+900,Morning,Online,Yes
+901,Morning,Phone,Yes
+902,Morning,Mobile App,Yes
+903,Afternoon,Phone,Yes
+904,Morning,Mobile App,Yes
+905,Evening,Phone,Yes
+906,Evening,Mobile App,No
+907,Morning,Phone,Yes
+908,Morning,Phone,Yes
+909,Morning,Phone,Yes
+910,Afternoon,Phone,Yes
+911,Morning,Mobile App,Yes
+912,Afternoon,Mobile App,Yes
+913,Morning,Phone,No
+914,Afternoon,Online,Yes
+915,Morning,Online,Yes
+916,Morning,Mobile App,Yes
+917,Evening,Online,Yes
+918,Afternoon,Online,Yes
+919,Morning,Online,Yes
+920,Evening,Online,Yes
+921,Afternoon,Phone,Yes
+922,Evening,Online,Yes
+923,Afternoon,Phone,Yes
+924,Morning,Mobile App,Yes
+925,Morning,Phone,No
+926,Morning,Online,Yes
+927,Afternoon,Online,No
+928,Afternoon,Online,Yes
+929,Morning,Phone,Yes
+930,Morning,Online,Yes
+931,Evening,Online,Yes
+932,Evening,Online,Yes
+933,Afternoon,Online,Yes
+934,Morning,Online,Yes
+935,Morning,Mobile App,Yes
+936,Morning,Phone,Yes
+937,Evening,Mobile App,Yes
+938,Morning,Online,No
+939,Afternoon,Phone,Yes
+940,Morning,Phone,Yes
+941,Afternoon,Phone,Yes
+942,Afternoon,Mobile App,Yes
+943,Evening,Online,Yes
+944,Morning,Mobile App,Yes
+945,Morning,Online,Yes
+946,Morning,Online,Yes
+947,Evening,Phone,Yes
+948,Evening,Phone,Yes
+949,Afternoon,Online,No
+950,Afternoon,Phone,Yes
+951,Afternoon,Phone,Yes
+952,Morning,Online,Yes
+953,Evening,Online,Yes
+954,Morning,Mobile App,No
+955,Morning,Mobile App,Yes
+956,Afternoon,Online,Yes
+957,Morning,Online,Yes
+958,Morning,Online,Yes
+959,Afternoon,Mobile App,Yes
+960,Morning,Phone,Yes
+961,Afternoon,Online,Yes
+962,Morning,Mobile App,Yes
+963,Morning,Phone,No
+964,Morning,Online,Yes
+965,Morning,Online,Yes
+966,Afternoon,Phone,Yes
+967,Morning,Phone,Yes
+968,Afternoon,Phone,No
+969,Afternoon,Phone,Yes
+970,Afternoon,Phone,Yes
+971,Evening,Mobile App,Yes
+972,Afternoon,Phone,Yes
+973,Morning,Online,Yes
+974,Morning,Phone,Yes
+975,Morning,Mobile App,Yes
+976,Afternoon,Phone,No
+977,Morning,Online,Yes
+978,Afternoon,Mobile App,Yes
+979,Afternoon,Mobile App,No
+980,Morning,Phone,Yes
+981,Afternoon,Mobile App,Yes
+982,Morning,Online,Yes
+983,Morning,Online,Yes
+984,Afternoon,Phone,Yes
+985,Afternoon,Phone,No
+986,Afternoon,Online,Yes
+987,Morning,Online,Yes
+988,Morning,Online,Yes
+989,Evening,Online,Yes
+990,Afternoon,Mobile App,Yes
+991,Afternoon,Phone,Yes
+992,Morning,Online,Yes
+993,Afternoon,Phone,Yes
+994,Morning,Mobile App,Yes
+995,Morning,Online,Yes
+996,Evening,Mobile App,Yes
+997,Morning,Phone,Yes
+998,Evening,Phone,Yes
+999,Morning,Phone,No
